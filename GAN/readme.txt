@@ -1,0 +1,1 @@
+Basic GAN, conditional GAN, BiGAN
